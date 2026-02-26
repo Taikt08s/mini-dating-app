@@ -1,6 +1,6 @@
 # dating_app_prototype
 
-File APK sản phẩm (hỗ trợ Android):
+File APK sản phẩm (hỗ trợ Android): https://drive.google.com/file/d/1RW0QK3F4DXXcUBkCZ7O2ci4gizaLsKtH/view?usp=sharing
 
 ## Tổ chức hệ thống
 
@@ -41,6 +41,5 @@ Firebase (Firestore / Auth)
 - Tính năng đề xuất
 + Sử dụng AI để đề xuất, hỗ trợ matching những người ngại giao tiếp hay hướng nội tìm ra những người dùng có điểm tương đồng với mình
 + Chọn địa điểm bằng GoongMap kết hợp với các sự kiện offline của Clique83 đưa ra các địa điểm date lý tưởng cho cặp đôi
-+
 
 
