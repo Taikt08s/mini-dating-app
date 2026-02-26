@@ -38,6 +38,7 @@ Firebase (Firestore / Auth)
 + Khi tạo date schedule chưa tính đến các edgde case như người dùng không chọn slot available, người dùng offline, 2 người dùng phải cùng confirm date schedule trước khi lưu vào firebase
 + Sử dụng cloud messaging để gửi FCM đến người dùng về việc match thành công
 + Thêm các trường dữ liệu mới khi tạo profile giúp những người khác hiểu rõ hơn như: zodiac, thú cưng, nghề nghiệp. học vấn
++ Bug khi user A và user B đã có các date slot status ended nhưng user A không xác nhận và đi like profile user C và C like lại thì sẽ tạo ra date mới mà không finished cái cũ
 - Tính năng đề xuất
 + Sử dụng AI để đề xuất, hỗ trợ matching những người ngại giao tiếp hay hướng nội tìm ra những người dùng có điểm tương đồng với mình
 + Chọn địa điểm bằng GoongMap kết hợp với các sự kiện offline của Clique83 đưa ra các địa điểm date lý tưởng cho cặp đôi
