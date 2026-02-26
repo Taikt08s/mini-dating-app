@@ -50,6 +50,22 @@ Account email and name
 + taidd3141@gmail.com (user B name Dung)
 + xtrange08s@gmail.com (user C name Haan)
 + styematic@gmail.com (user D name Nhi) (Backup account)
-- Đăng nhập trên 2 thiết bị giả lập/điện thoại với tài khoản nam và nữ
+- Đăng nhập trên 2 thiết bị giả lập/điện thoại với tài khoản user A và B + like profile của nhau
+  <img width="387" height="861" alt="image" src="https://github.com/user-attachments/assets/db80236a-419f-48ec-b9d8-7e798e55a16a" /> <img width="401" height="891" alt="image" src="https://github.com/user-attachments/assets/0d619f5e-bde6-4e5a-952e-f278c7f0937b" />
+- Sau khi like thành công sẽ hiện thông báo match thành công
+<img width="390" height="882" alt="image" src="https://github.com/user-attachments/assets/f598bfce-7ac1-401d-a4e4-e705a8111ce0" />
+- Sử dụng thanh điều hướng và qua phần lịch hẹn để tiếp tục, ở đây người dùng có thể chọn slot hẹn hò vào ngày mà họ mong muốn và chốt hẹn
+<img width="795" height="894" alt="image" src="https://github.com/user-attachments/assets/b27badc6-67ef-4ba6-a823-a639f2401d7b" />
+- Sau khi chốt chúng ta có sẽ được kết quả như sau. Vì lý do demo nên logic lịch hẹn có thể kết thúc ngay lập tức
+![Uploading image.png…]()
+- Nếu user A và user B đang hẹn hò nhưng user A tiếp tục like profile user C thì lịch hẹn sẽ không đc tạo cho đến khi lịch hẹn của A và B kết thúc
+
+
+
+
+
+  
+
+
   
 
