@@ -42,4 +42,14 @@ Firebase (Firestore / Auth)
 + Sử dụng AI để đề xuất, hỗ trợ matching những người ngại giao tiếp hay hướng nội tìm ra những người dùng có điểm tương đồng với mình
 + Chọn địa điểm bằng GoongMap kết hợp với các sự kiện offline của Clique83 đưa ra các địa điểm date lý tưởng cho cặp đôi
 
+## Demo Project
+- Tạo tài khoản mới hoặc sử dụng các tài khoản có sẵn dưới đây
+All account password: Taikt08s
+Account email and name
++ xtrangemusic@gmail.com (user A name Tài)
++ taidd3141@gmail.com (user B name Dung)
++ xtrange08s@gmail.com (user C name Haan)
++ styematic@gmail.com (user D name Nhi) (Backup account)
+- Đăng nhập trên 2 thiết bị giả lập/điện thoại với tài khoản nam và nữ
+  
 
