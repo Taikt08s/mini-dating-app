@@ -61,9 +61,13 @@ Account email and name
 - Nếu user A và user B đang hẹn hò nhưng user A tiếp tục like profile user C thì lịch hẹn sẽ không đc tạo cho đến khi lịch hẹn của A và B kết thúc
 <img width="794" height="893" alt="image" src="https://github.com/user-attachments/assets/28d09b33-aa23-4813-b547-27af6de889a9" />
 - Phía tay trái màn hình là màn hình hẹn lịch của user C mặc dù A và C đã like nhau nhưng lịch vẫn không tạo
-![Uploading image.png…]()
+<img width="797" height="888" alt="image" src="https://github.com/user-attachments/assets/ecce44db-e336-4e82-adf9-bd9d701d76d4" />
 - Khi kết thúc lịch hẹn hẹ thống sẽ kiểm tra xem user A đã like ai khác và người khác đã like lại chưa nếu có sẽ tạo lịch mới với người mới (user C) như hình
-![Uploading image.png…]()
+<img width="794" height="898" alt="image" src="https://github.com/user-attachments/assets/e345402d-1a47-4036-9455-00302b27e844" />
+<img width="789" height="883" alt="image" src="https://github.com/user-attachments/assets/48010944-9980-4b4a-bea9-62cb675efb5c" />
+- Người dùng tiếp tục tạo lịch hẹn và tiếp tục. Phần demo đến đây là hết.
+
+
 
 
 
