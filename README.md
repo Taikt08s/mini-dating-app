@@ -32,7 +32,15 @@ Firebase (Firestore / Auth)
 + Khi hệ thống tới khung thời gian mà cả 2 hẹn hò Widget DateCardWidget sẽ tự chuyển sang trạng thái đang diễn ra cùng với nút kết thúc buổi hẹn hò để cập nhật status="ended" cho buổi hẹn đó. Khi tất cả buổi hẹn có status ended thì hệ thống sẽ hiện nút "Kết thúc lịch hẹn" để kết thúc lịch hẹn giữa 2 người. Edge case ở đây: Khi người A và B đã lên lịch hẹn hò và trong thời gian đó người A like profile của người khác C thì hệ thống sẽ không tạo một date schedule mới listenMatchRealtime() và sẽ tạo một date schedule mới giữa A và C  chỉ khi lịch hẹn của A và B đã kết thúc tại finishAndFindNewMatch(String myId).
 
 ## Tổng kết
-
-
+- Cải thiện
++ Việc matching account nên được thiết kế lại như queue giúp dễ quản lý việc matching thay vì phải loop và đi đìm lại các match cũ
++ Popup hiển thị match thành công vẫn còn bug khi không hiển thị khi người dùng A và B hoàn thành date schedule người A và C đã liked nhau từ trước và sẽ tạo một date schedule mới
++ Khi tạo date schedule chưa tính đến các edgde case như người dùng không chọn slot available, người dùng offline, 2 người dùng phải cùng confirm date schedule trước khi lưu vào firebase
++ Sử dụng cloud messaging để gửi FCM đến người dùng về việc match thành công
++ Thêm các trường dữ liệu mới khi tạo profile giúp những người khác hiểu rõ hơn như: zodiac, thú cưng, nghề nghiệp. học vấn
+- Tính năng đề xuất
++ Sử dụng AI để đề xuất, hỗ trợ matching những người ngại giao tiếp hay hướng nội tìm ra những người dùng có điểm tương đồng với mình
++ Chọn địa điểm bằng GoongMap kết hợp với các sự kiện offline của Clique83 đưa ra các địa điểm date lý tưởng cho cặp đôi
++
 
 
