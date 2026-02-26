@@ -57,8 +57,15 @@ Account email and name
 - Sử dụng thanh điều hướng và qua phần lịch hẹn để tiếp tục, ở đây người dùng có thể chọn slot hẹn hò vào ngày mà họ mong muốn và chốt hẹn
 <img width="795" height="894" alt="image" src="https://github.com/user-attachments/assets/b27badc6-67ef-4ba6-a823-a639f2401d7b" />
 - Sau khi chốt chúng ta có sẽ được kết quả như sau. Vì lý do demo nên logic lịch hẹn có thể kết thúc ngay lập tức
-![Uploading image.png…]()
+<img width="788" height="889" alt="image" src="https://github.com/user-attachments/assets/4868c690-2d36-4b04-9abb-86d753c9e31f" />
 - Nếu user A và user B đang hẹn hò nhưng user A tiếp tục like profile user C thì lịch hẹn sẽ không đc tạo cho đến khi lịch hẹn của A và B kết thúc
+<img width="794" height="893" alt="image" src="https://github.com/user-attachments/assets/28d09b33-aa23-4813-b547-27af6de889a9" />
+- Phía tay trái màn hình là màn hình hẹn lịch của user C mặc dù A và C đã like nhau nhưng lịch vẫn không tạo
+![Uploading image.png…]()
+- Khi kết thúc lịch hẹn hẹ thống sẽ kiểm tra xem user A đã like ai khác và người khác đã like lại chưa nếu có sẽ tạo lịch mới với người mới (user C) như hình
+![Uploading image.png…]()
+
+
 
 
 
