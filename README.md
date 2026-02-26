@@ -75,7 +75,7 @@ Account email and name
 
 <img width="797" height="888" alt="image" src="https://github.com/user-attachments/assets/ecce44db-e336-4e82-adf9-bd9d701d76d4" />
 
-- Khi kết thúc lịch hẹn hẹ thống sẽ kiểm tra xem user A đã like ai khác và người khác đã like lại chưa nếu có sẽ tạo lịch mới với người mới (user C) như hình
+- Khi kết thúc lịch hẹn hệ thống sẽ kiểm tra xem user A đã like ai khác và người khác đã like lại chưa nếu có sẽ tạo lịch mới với người mới (user C) như hình
 
 <img width="794" height="898" alt="image" src="https://github.com/user-attachments/assets/e345402d-1a47-4036-9455-00302b27e844" />
 
