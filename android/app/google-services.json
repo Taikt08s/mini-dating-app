@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "141911106672",
+    "project_id": "mini-dating-app-protype-fd5ef",
+    "storage_bucket": "mini-dating-app-protype-fd5ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141911106672:android:37cfa012bb229670cec0b5",
+        "android_client_info": {
+          "package_name": "com.styematic.dating_app_prototype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141911106672-56s822afhppcn4epvgplrcnb0tgof4fp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.styematic.dating_app_prototype",
+            "certificate_hash": "9aae08ead8a4938e7d79b5db056e2c7e998c8967"
+          }
+        },
+        {
+          "client_id": "141911106672-qeig8vgplpaenipefsopjeel39afs14s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF9RqHyN93nHb2u39p1Bl0_XYWavnQEd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141911106672-qeig8vgplpaenipefsopjeel39afs14s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "141911106672-98jpaq7sbl9ulqsuo8ssdqtr5o1igsoi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.styematic.datingAppPrototype"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
