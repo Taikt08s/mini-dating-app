@@ -83,7 +83,8 @@ class DateCardWidget extends StatelessWidget {
               ),
             ],
           ),
-          if (derivedStatus == "in_progress")
+          // if (derivedStatus == "in_progress")
+          if (derivedStatus != "ended")
             GestureDetector(
               onTap: () async {
                 await controller.markSlotEnded(index);

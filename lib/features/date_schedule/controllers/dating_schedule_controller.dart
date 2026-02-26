@@ -178,14 +178,14 @@ class DatingScheduleController extends GetxController {
     /// 🔥 prevent ending too early
     final slot = current.slots[index];
 
-    final now = DateTime.now();
-    if (now.isBefore(slot.time)) {
-      TLoaders.warningSnackBar(
-        title: "Chưa đến giờ",
-        message: "Bạn chưa thể kết thúc lịch hẹn này.",
-      );
-      return;
-    }
+    // final now = DateTime.now();
+    // if (now.isBefore(slot.time)) {
+    //   TLoaders.warningSnackBar(
+    //     title: "Chưa đến giờ",
+    //     message: "Bạn chưa thể kết thúc lịch hẹn này.",
+    //   );
+    //   return;
+    // }
 
     await repo.markSlotEnded(
       scheduleId: current.id,
