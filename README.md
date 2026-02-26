@@ -51,20 +51,35 @@ Account email and name
 + xtrange08s@gmail.com (user C name Haan)
 + styematic@gmail.com (user D name Nhi) (Backup account)
 - Đăng nhập trên 2 thiết bị giả lập/điện thoại với tài khoản user A và B + like profile của nhau
+ 
   <img width="387" height="861" alt="image" src="https://github.com/user-attachments/assets/db80236a-419f-48ec-b9d8-7e798e55a16a" /> <img width="401" height="891" alt="image" src="https://github.com/user-attachments/assets/0d619f5e-bde6-4e5a-952e-f278c7f0937b" />
+  
 - Sau khi like thành công sẽ hiện thông báo match thành công
+ 
 <img width="390" height="882" alt="image" src="https://github.com/user-attachments/assets/f598bfce-7ac1-401d-a4e4-e705a8111ce0" />
+
 - Sử dụng thanh điều hướng và qua phần lịch hẹn để tiếp tục, ở đây người dùng có thể chọn slot hẹn hò vào ngày mà họ mong muốn và chốt hẹn
+
 <img width="795" height="894" alt="image" src="https://github.com/user-attachments/assets/b27badc6-67ef-4ba6-a823-a639f2401d7b" />
+
 - Sau khi chốt chúng ta có sẽ được kết quả như sau. Vì lý do demo nên logic lịch hẹn có thể kết thúc ngay lập tức
+
 <img width="788" height="889" alt="image" src="https://github.com/user-attachments/assets/4868c690-2d36-4b04-9abb-86d753c9e31f" />
+
 - Nếu user A và user B đang hẹn hò nhưng user A tiếp tục like profile user C thì lịch hẹn sẽ không đc tạo cho đến khi lịch hẹn của A và B kết thúc
+
 <img width="794" height="893" alt="image" src="https://github.com/user-attachments/assets/28d09b33-aa23-4813-b547-27af6de889a9" />
+
 - Phía tay trái màn hình là màn hình hẹn lịch của user C mặc dù A và C đã like nhau nhưng lịch vẫn không tạo
+
 <img width="797" height="888" alt="image" src="https://github.com/user-attachments/assets/ecce44db-e336-4e82-adf9-bd9d701d76d4" />
+
 - Khi kết thúc lịch hẹn hẹ thống sẽ kiểm tra xem user A đã like ai khác và người khác đã like lại chưa nếu có sẽ tạo lịch mới với người mới (user C) như hình
+
 <img width="794" height="898" alt="image" src="https://github.com/user-attachments/assets/e345402d-1a47-4036-9455-00302b27e844" />
+
 <img width="789" height="883" alt="image" src="https://github.com/user-attachments/assets/48010944-9980-4b4a-bea9-62cb675efb5c" />
+
 - Người dùng tiếp tục tạo lịch hẹn và tiếp tục. Phần demo đến đây là hết.
 
 
